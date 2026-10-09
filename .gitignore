@@ -1,0 +1,5 @@
+node_modules/
+.env
+ai-memory.sqlite
+ai-memory.sqlite-shm
+ai-memory.sqlite-wal
